@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Journey-Site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Journey-Site/static/js/main.036324cd.chunk.js",
+    "main.js.map": "/Journey-Site/static/js/main.036324cd.chunk.js.map",
+    "runtime-main.js": "/Journey-Site/static/js/runtime-main.91d8ef5c.js",
+    "runtime-main.js.map": "/Journey-Site/static/js/runtime-main.91d8ef5c.js.map",
+    "static/js/2.5ce6bacb.chunk.js": "/Journey-Site/static/js/2.5ce6bacb.chunk.js",
+    "static/js/2.5ce6bacb.chunk.js.map": "/Journey-Site/static/js/2.5ce6bacb.chunk.js.map",
+    "index.html": "/Journey-Site/index.html",
+    "precache-manifest.53813e996b5a2758dc71772e28295fbd.js": "/Journey-Site/precache-manifest.53813e996b5a2758dc71772e28295fbd.js",
+    "service-worker.js": "/Journey-Site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Journey-Site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ce6bacb.chunk.js.LICENSE.txt": "/Journey-Site/static/js/2.5ce6bacb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Journey-Site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d8ef5c.js",
+    "static/js/2.5ce6bacb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.036324cd.chunk.js"
+  ]
+}
