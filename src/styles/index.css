@@ -122,10 +122,9 @@ body {
       float: right;
       display: block;
     }
-    
     /* Show logo in Mobile view */
     .topnav a:nth-child(5n) {display:block;}
-    
+  
     
   
     .topnav.showmenu {position: fixed;}

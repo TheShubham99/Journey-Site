@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/index.css';
 import { Navbar } from './components/Navbar';
 import { UserMessageDiv } from './components/UserMessageDiv';
 import { BottomNavbar } from './components/BottomNavbar';
